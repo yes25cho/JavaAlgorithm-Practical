@@ -1,0 +1,11 @@
+//Q1.네 값의 최뎃값을 구하는 max4 메서드를 작성하세요.
+//max4 메소드
+//static int max4(int a, int b, int c, int d)
+
+//Q2.세값의 최솟값을 구하는 min3 메서드를 작성하시오
+//min3 메서드
+//static int min3(int a, int b, int c)
+
+//Q3.네 값의 최솟값을 구하는 max4 메서드를 작성하세요.
+//min4 메소드
+//static int min4(int a, int b, int c, int d)
